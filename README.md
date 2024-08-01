@@ -11,5 +11,5 @@ Celebre intensamente, ria com vontade, e saiba que, hoje e sempre, você é muit
 ## 🎂 Parabéns pelo seu dia e que todos os seus desejos se tornem realidade!
 
    
-<img src="https://github.com/user-attachments/assets/48e4d099-7f4c-4453-a13e-fcd7937d5942)
-" width="150" height="160"/>
+<img src= "https://github.com/user-attachments/assets/48e4d099-7f4c-4453-a13e-fcd7937d5942"
+ width="200" height="200"/>
