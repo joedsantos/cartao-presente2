@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.gift-card {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 400px;
+    text-align: center;
+}
+
+.gift-card h1 {
+    color: #ff6347;
+    font-size: 24px;
+    margin-bottom: 11px;
+}
+
+.gift-card p {
+    color: #555;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.gift-amount {
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid #eee;
+}
+
+.gift-amount h2 {
+    color: #333;
+    font-size: 22px;
+    margin: 0;
+}
